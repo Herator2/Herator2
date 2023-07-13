@@ -14,5 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Secondary school student who codes
-
+``` python
+class aboutMe(self):
+  self.socials = {
+    "discord": "herator2",
+    "github": "Herator2"
+  }
+  self.likes = [
+    "coding",
+    "school",
+  ]
+```
