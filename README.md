@@ -7,11 +7,13 @@
 class aboutMe(self):
   self.socials = {
     "discord": "herator2",
-    "github": "Herator2"
+    "github": "Herator2",
+    "email": "herator2008@gmail.com"
   }
-  self.likes = [
+  self.occupations = [
     "learning to code",
-    "operating systems"
+    "secondary school",
+    "gaming"
   ]
   self.languges = [
     "english",
