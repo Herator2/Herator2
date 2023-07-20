@@ -8,7 +8,7 @@ class aboutMe(self):
   self.socials = {
     "discord": "herator2",
     "github": "Herator2",
-    "email": "herator2008@gmail.com"
+    "email": "alexjvde@gmail.com"
   }
   self.occupations = [
     "learning to code",
