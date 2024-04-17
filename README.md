@@ -6,7 +6,6 @@
 ``` python
 class aboutMe(self):
   self.socials = {
-    "discord": "herator2",
     "github": "Herator2",
     "email": "alexjvde@gmail.com"
   }
@@ -16,7 +15,7 @@ class aboutMe(self):
     "gaming"
   ]
   self.languges = [
-    "english",
     "python",
+    "gdscript",
   ]
 ```
