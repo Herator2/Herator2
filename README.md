@@ -10,12 +10,11 @@ class aboutMe(self):
     "email": "alexjvde@gmail.com"
   }
   self.occupations = [
-    "learning to code",
-    "secondary school",
-    "gaming"
+    "learning game dev",
+    "creating hobby projects"
   ]
   self.languges = [
     "python",
-    "gdscript",
+    "gdscript"
   ]
 ```
