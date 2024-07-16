@@ -6,15 +6,19 @@
 ``` python
 class aboutMe(self):
   self.socials = {
+    "website": herator2.org,
     "github": "Herator2",
-    "email": "alexjvde@gmail.com"
+    "email": "alex@herator2.org"
   }
   self.occupations = [
-    "learning game dev",
+    "learning web design",
     "creating hobby projects"
   ]
   self.languges = [
     "python",
-    "gdscript"
+    "gdscript",
+    "html",
+    "css",
+    "javascript"
   ]
 ```
