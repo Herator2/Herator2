@@ -1,4 +1,4 @@
-
+n
 <!--
 **Herator2/Herator2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -6,7 +6,7 @@
 ``` python
 class aboutMe(self):
   self.socials = {
-    "website": https://herator2.org,
+    "website": "https://herator2.org",
     "github": "Herator2",
     "email": "alex@herator2.org"
   }
