@@ -6,9 +6,9 @@
 ``` python
 class aboutMe(self):
   self.socials = {
-    "website": "https://herator2.org",
+    "website": "https://herator2.dev",
     "github": "Herator2",
-    "email": "alex@herator2.org"
+    "email": "alex@herator2.dev"
   }
   self.occupations = [
     "learning web design",
